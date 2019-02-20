@@ -1,4 +1,8 @@
+
 FROM  johnshenton55/testrepo2:chinglish4 
+
+
+USER 1001
 
 
 run mkdir /testjon111
