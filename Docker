@@ -1,12 +1,2 @@
 FROM  johnshenton55/testrepo2:chinglish4 
 
-
-#eclipse/stack-base:ubuntu
-
-
-
-USER root
-
-#RUN mkdir /jontest
-
-CMD tail -f /dev/null
