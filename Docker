@@ -1,0 +1,9 @@
+FROM eclipse/stack-base:ubuntu
+
+
+
+USER root
+
+#RUN mkdir /jontest
+
+CMD tail -f /dev/null
